@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/client-optimized/app.js": {
-    "file": "_app/immutable/entry/app.0YbuUO6K.js",
+    "file": "_app/immutable/entry/app.BRZjCzqD.js",
     "name": "entry/app",
     "src": ".svelte-kit/generated/client-optimized/app.js",
     "isEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/0.js": {
-    "file": "_app/immutable/nodes/0.BsMQetIm.js",
+    "file": "_app/immutable/nodes/0.DzWLy_vx.js",
     "name": "nodes/0",
     "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
     "isEntry": true,
@@ -42,11 +42,11 @@
       "_BclKkieb.js"
     ],
     "css": [
-      "_app/immutable/assets/0.CosMv2rk.css"
+      "_app/immutable/assets/0.C6p5Eure.css"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.QfiZLUkx.js",
+    "file": "_app/immutable/nodes/1.1B1Ot_uB.js",
     "name": "nodes/1",
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
     "isEntry": true,
@@ -57,7 +57,7 @@
       "_RdLangg8.js",
       "_D9tfKOvJ.js",
       "_mM9hCN1u.js",
-      "_CoyGoQDA.js"
+      "_C9hm5AK7.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/10.js": {
@@ -123,7 +123,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/2.js": {
-    "file": "_app/immutable/nodes/2.C-FeQDoU.js",
+    "file": "_app/immutable/nodes/2.IJUU76h6.js",
     "name": "nodes/2",
     "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
     "isEntry": true,
@@ -138,7 +138,7 @@
       "_mM9hCN1u.js"
     ],
     "css": [
-      "_app/immutable/assets/2.BUEQdM5O.css"
+      "_app/immutable/assets/2.CIbGio_7.css"
     ],
     "assets": [
       "_app/immutable/assets/youtube.pfzy1DV1.avif",
@@ -170,7 +170,13 @@
       "_app/immutable/assets/soundcloud.DVeW3lyn.webp",
       "_app/immutable/assets/soundcloud.DJYHQs3t.webp",
       "_app/immutable/assets/soundcloud.DAwDCIhx.png",
-      "_app/immutable/assets/soundcloud.2CrTAb1E.png"
+      "_app/immutable/assets/soundcloud.2CrTAb1E.png",
+      "_app/immutable/assets/juha2010.JY3MohC2.avif",
+      "_app/immutable/assets/juha2010.DcCYbKr0.avif",
+      "_app/immutable/assets/juha2010.BZKH1V8c.webp",
+      "_app/immutable/assets/juha2010.DyxBBbbv.webp",
+      "_app/immutable/assets/juha2010.DetWHHmU.jpeg",
+      "_app/immutable/assets/juha2010.Bw0KDngZ.jpeg"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/3.js": {
@@ -325,6 +331,14 @@
       "_RdLangg8.js"
     ]
   },
+  "_C9hm5AK7.js": {
+    "file": "_app/immutable/chunks/C9hm5AK7.js",
+    "name": "entry",
+    "imports": [
+      "_RdLangg8.js",
+      "_C5MVO9uE.js"
+    ]
+  },
   "_CJSQP4eG.js": {
     "file": "_app/immutable/chunks/CJSQP4eG.js",
     "name": "datetime"
@@ -428,14 +442,6 @@
   "_CeN9Rbl1.js": {
     "file": "_app/immutable/chunks/CeN9Rbl1.js",
     "name": "lyrics"
-  },
-  "_CoyGoQDA.js": {
-    "file": "_app/immutable/chunks/CoyGoQDA.js",
-    "name": "entry",
-    "imports": [
-      "_RdLangg8.js",
-      "_C5MVO9uE.js"
-    ]
   },
   "_D9tfKOvJ.js": {
     "file": "_app/immutable/chunks/D9tfKOvJ.js",
@@ -849,6 +855,30 @@
     "file": "_app/immutable/assets/facebook.DtYwqipV.webp",
     "src": "_facebook.DtYwqipV.webp"
   },
+  "_juha2010.BZKH1V8c.webp": {
+    "file": "_app/immutable/assets/juha2010.BZKH1V8c.webp",
+    "src": "_juha2010.BZKH1V8c.webp"
+  },
+  "_juha2010.Bw0KDngZ.jpeg": {
+    "file": "_app/immutable/assets/juha2010.Bw0KDngZ.jpeg",
+    "src": "_juha2010.Bw0KDngZ.jpeg"
+  },
+  "_juha2010.DcCYbKr0.avif": {
+    "file": "_app/immutable/assets/juha2010.DcCYbKr0.avif",
+    "src": "_juha2010.DcCYbKr0.avif"
+  },
+  "_juha2010.DetWHHmU.jpeg": {
+    "file": "_app/immutable/assets/juha2010.DetWHHmU.jpeg",
+    "src": "_juha2010.DetWHHmU.jpeg"
+  },
+  "_juha2010.DyxBBbbv.webp": {
+    "file": "_app/immutable/assets/juha2010.DyxBBbbv.webp",
+    "src": "_juha2010.DyxBBbbv.webp"
+  },
+  "_juha2010.JY3MohC2.avif": {
+    "file": "_app/immutable/assets/juha2010.JY3MohC2.avif",
+    "src": "_juha2010.JY3MohC2.avif"
+  },
   "_lastfm.BR-h3Qk0.avif": {
     "file": "_app/immutable/assets/lastfm.BR-h3Qk0.avif",
     "src": "_lastfm.BR-h3Qk0.avif"
@@ -929,12 +959,12 @@
     "src": "_youtube.pfzy1DV1.avif"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
-    "file": "_app/immutable/entry/start.DPO4kB6I.js",
+    "file": "_app/immutable/entry/start.C-_0J75M.js",
     "name": "entry/start",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_CoyGoQDA.js"
+      "_C9hm5AK7.js"
     ]
   }
 }
