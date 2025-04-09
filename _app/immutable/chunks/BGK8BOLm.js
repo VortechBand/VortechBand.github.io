@@ -1,0 +1,1 @@
+import{D as a}from"./CJSQP4eG.js";const M="d MMM yyyy",A="yyyy - d MMM",D="yyyy-MM-dd",E="yyyy",T=(o,y,s=M)=>{const t=a.fromFormat(o??"",y);return t.isValid?t.toFormat(s):""};export{M as D,D as a,E as b,A as c,T as f};

@@ -1,0 +1,1 @@
+import{t,a as r}from"../chunks/DuD2xs5a.js";import"../chunks/CccmpMhe.js";import{n as p}from"../chunks/DBDo2Qud.js";var e=t('<h2>Full bio</h2> <a href="/bio">Back to Biography</a>',1);function f(a){var o=e();p(2),r(a,o)}export{f as component};
