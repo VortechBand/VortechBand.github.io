@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/client-optimized/app.js": {
-    "file": "_app/immutable/entry/app.TH5r8Nvg.js",
+    "file": "_app/immutable/entry/app.D6rl0UEl.js",
     "name": "entry/app",
     "src": ".svelte-kit/generated/client-optimized/app.js",
     "isEntry": true,
@@ -48,7 +48,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.CN_gRytn.js",
+    "file": "_app/immutable/nodes/1.BC87t8MB.js",
     "name": "nodes/1",
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
     "isEntry": true,
@@ -59,7 +59,7 @@
       "_CfdgFL9F.js",
       "_DeWvKH2M.js",
       "_Vj-obPLL.js",
-      "_ffyUjf3a.js"
+      "_ChXHi2R9.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/10.js": {
@@ -227,7 +227,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/3.js": {
-    "file": "_app/immutable/nodes/3.Be9rA5gR.js",
+    "file": "_app/immutable/nodes/3.C9-4BjPX.js",
     "name": "nodes/3",
     "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
     "isEntry": true,
@@ -501,6 +501,14 @@
   "_CfdgFL9F.js": {
     "file": "_app/immutable/chunks/CfdgFL9F.js",
     "name": "runtime"
+  },
+  "_ChXHi2R9.js": {
+    "file": "_app/immutable/chunks/ChXHi2R9.js",
+    "name": "entry",
+    "imports": [
+      "_CfdgFL9F.js",
+      "_JqSypdUR.js"
+    ]
   },
   "_CpdfEIkN.js": {
     "file": "_app/immutable/chunks/CpdfEIkN.js",
@@ -925,14 +933,6 @@
     "file": "_app/immutable/assets/facebook.DtYwqipV.webp",
     "src": "_facebook.DtYwqipV.webp"
   },
-  "_ffyUjf3a.js": {
-    "file": "_app/immutable/chunks/ffyUjf3a.js",
-    "name": "entry",
-    "imports": [
-      "_CfdgFL9F.js",
-      "_JqSypdUR.js"
-    ]
-  },
   "_lastfm.BR-h3Qk0.avif": {
     "file": "_app/immutable/assets/lastfm.BR-h3Qk0.avif",
     "src": "_lastfm.BR-h3Qk0.avif"
@@ -1006,12 +1006,12 @@
     "src": "_youtube-w.p6r_eGz1.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
-    "file": "_app/immutable/entry/start.DVxIs8eX.js",
+    "file": "_app/immutable/entry/start.Bk81KxOJ.js",
     "name": "entry/start",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_ffyUjf3a.js"
+      "_ChXHi2R9.js"
     ]
   },
   "src/lib/vortech.svg": {
