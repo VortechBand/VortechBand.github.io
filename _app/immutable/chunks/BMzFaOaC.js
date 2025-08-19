@@ -1,0 +1,1 @@
+import{a as s}from"./DT4lGENY.js";const M="d MMM yyyy",A="yyyy - d MMM",E="yyyy-MM-dd",T="yyyy",D=(o,y,a=M)=>{const t=s.fromFormat(o??"",y);return t.isValid?t.toFormat(a):""};export{M as D,E as a,T as b,A as c,D as f};
