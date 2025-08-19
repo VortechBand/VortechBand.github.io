@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/client-optimized/app.js": {
-    "file": "_app/immutable/entry/app.ME78HXkw.js",
+    "file": "_app/immutable/entry/app.y2n62Lpr.js",
     "name": "entry/app",
     "src": ".svelte-kit/generated/client-optimized/app.js",
     "isEntry": true,
@@ -29,11 +29,12 @@
       ".svelte-kit/generated/client-optimized/nodes/13.js",
       ".svelte-kit/generated/client-optimized/nodes/14.js",
       ".svelte-kit/generated/client-optimized/nodes/15.js",
-      ".svelte-kit/generated/client-optimized/nodes/16.js"
+      ".svelte-kit/generated/client-optimized/nodes/16.js",
+      ".svelte-kit/generated/client-optimized/nodes/17.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/0.js": {
-    "file": "_app/immutable/nodes/0.Bi2PJVf9.js",
+    "file": "_app/immutable/nodes/0.CsH53IgO.js",
     "name": "nodes/0",
     "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
     "isEntry": true,
@@ -44,11 +45,11 @@
       "_BGzPg2RH.js"
     ],
     "css": [
-      "_app/immutable/assets/0.DRmybEjC.css"
+      "_app/immutable/assets/0.6LfkPCO2.css"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.BmR-zYE7.js",
+    "file": "_app/immutable/nodes/1.BvY-uW67.js",
     "name": "nodes/1",
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
     "isEntry": true,
@@ -59,7 +60,7 @@
       "_DNDvGc4r.js",
       "_B_ghvvqk.js",
       "_DEnrn988.js",
-      "_BI-xLgsw.js"
+      "_DNhtA-p5.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/10.js": {
@@ -132,7 +133,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/14.js": {
-    "file": "_app/immutable/nodes/14.4dJCeckf.js",
+    "file": "_app/immutable/nodes/14.Co3PPsbb.js",
     "name": "nodes/14",
     "src": ".svelte-kit/generated/client-optimized/nodes/14.js",
     "isEntry": true,
@@ -145,28 +146,50 @@
       "_XtlbtPns.js",
       "_Qe1ecoE-.js",
       "_DEnrn988.js",
-      "_BclyJuo2.js",
-      "_DNbWoZXZ.js"
+      "_BCIjc3Ow.js",
+      "_DNbWoZXZ.js",
+      "_gpsZ7xr2.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/15.js": {
-    "file": "_app/immutable/nodes/15.BQHJhGoW.js",
+    "file": "_app/immutable/nodes/15.C8gA2Rlq.js",
     "name": "nodes/15",
     "src": ".svelte-kit/generated/client-optimized/nodes/15.js",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_BclyJuo2.js",
+      "_DW_XZG2P.js",
+      "_BGzPg2RH.js",
+      "_DNDvGc4r.js",
+      "_B_ghvvqk.js",
+      "_XtlbtPns.js",
+      "_Qe1ecoE-.js",
+      "_DEnrn988.js",
+      "_joPLHynM.js",
+      "_DNbWoZXZ.js",
+      "_gpsZ7xr2.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/16.js": {
+    "file": "_app/immutable/nodes/16.BaWpY2sr.js",
+    "name": "nodes/16",
+    "src": ".svelte-kit/generated/client-optimized/nodes/16.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_BCIjc3Ow.js",
+      "_joPLHynM.js",
+      "_gpsZ7xr2.js",
       "_DW_XZG2P.js",
       "_DNDvGc4r.js",
       "_B_ghvvqk.js",
       "_B8adELze.js"
     ]
   },
-  ".svelte-kit/generated/client-optimized/nodes/16.js": {
-    "file": "_app/immutable/nodes/16.DuFkwVFe.js",
-    "name": "nodes/16",
-    "src": ".svelte-kit/generated/client-optimized/nodes/16.js",
+  ".svelte-kit/generated/client-optimized/nodes/17.js": {
+    "file": "_app/immutable/nodes/17.DPQYtQ3p.js",
+    "name": "nodes/17",
+    "src": ".svelte-kit/generated/client-optimized/nodes/17.js",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -182,7 +205,7 @@
       "_Bh_U4xsq.js"
     ],
     "css": [
-      "_app/immutable/assets/16.BNzZpR3s.css"
+      "_app/immutable/assets/17.BNzZpR3s.css"
     ],
     "assets": [
       "_app/immutable/assets/shirt-neuroshirt.3ufnHcKK.avif",
@@ -287,7 +310,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/4.js": {
-    "file": "_app/immutable/nodes/4.Ca1rYHV-.js",
+    "file": "_app/immutable/nodes/4.CB-NDBn2.js",
     "name": "nodes/4",
     "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
     "isEntry": true,
@@ -416,19 +439,15 @@
       "_DNDvGc4r.js"
     ]
   },
+  "_BCIjc3Ow.js": {
+    "file": "_app/immutable/chunks/BCIjc3Ow.js",
+    "name": "news"
+  },
   "_BGzPg2RH.js": {
     "file": "_app/immutable/chunks/BGzPg2RH.js",
     "name": "legacy",
     "imports": [
       "_DNDvGc4r.js"
-    ]
-  },
-  "_BI-xLgsw.js": {
-    "file": "_app/immutable/chunks/BI-xLgsw.js",
-    "name": "entry",
-    "imports": [
-      "_DNDvGc4r.js",
-      "_DHsTd0bF.js"
     ]
   },
   "_BMzFaOaC.js": {
@@ -444,13 +463,6 @@
     "imports": [
       "_DNDvGc4r.js",
       "_DW_XZG2P.js"
-    ]
-  },
-  "_BclyJuo2.js": {
-    "file": "_app/immutable/chunks/BclyJuo2.js",
-    "name": "news",
-    "imports": [
-      "_BMzFaOaC.js"
     ]
   },
   "_Bh_U4xsq.js": {
@@ -558,6 +570,14 @@
   "_DNbWoZXZ.js": {
     "file": "_app/immutable/chunks/DNbWoZXZ.js",
     "name": "links"
+  },
+  "_DNhtA-p5.js": {
+    "file": "_app/immutable/chunks/DNhtA-p5.js",
+    "name": "entry",
+    "imports": [
+      "_DNDvGc4r.js",
+      "_DHsTd0bF.js"
+    ]
   },
   "_DT4lGENY.js": {
     "file": "_app/immutable/chunks/DT4lGENY.js",
@@ -960,6 +980,17 @@
     "file": "_app/immutable/assets/facebook.DtYwqipV.webp",
     "src": "_facebook.DtYwqipV.webp"
   },
+  "_gpsZ7xr2.js": {
+    "file": "_app/immutable/chunks/gpsZ7xr2.js",
+    "name": "news",
+    "imports": [
+      "_BMzFaOaC.js"
+    ]
+  },
+  "_joPLHynM.js": {
+    "file": "_app/immutable/chunks/joPLHynM.js",
+    "name": "old-news"
+  },
   "_lastfm.BR-h3Qk0.avif": {
     "file": "_app/immutable/assets/lastfm.BR-h3Qk0.avif",
     "src": "_lastfm.BR-h3Qk0.avif"
@@ -1146,12 +1177,12 @@
     "src": "_youtube-w.p6r_eGz1.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
-    "file": "_app/immutable/entry/start.Ds0Dgy0i.js",
+    "file": "_app/immutable/entry/start.DGQTMVtv.js",
     "name": "entry/start",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_BI-xLgsw.js"
+      "_DNhtA-p5.js"
     ]
   },
   "src/lib/vortech.svg": {
