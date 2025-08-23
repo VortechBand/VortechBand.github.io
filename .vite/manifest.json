@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/client-optimized/app.js": {
-    "file": "_app/immutable/entry/app.DUCZdnu9.js",
+    "file": "_app/immutable/entry/app.B4k-kf51.js",
     "name": "entry/app",
     "src": ".svelte-kit/generated/client-optimized/app.js",
     "isEntry": true,
@@ -49,7 +49,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.Ch1iNvGy.js",
+    "file": "_app/immutable/nodes/1.CDFzqbBA.js",
     "name": "nodes/1",
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
     "isEntry": true,
@@ -60,7 +60,7 @@
       "_KjrQ1_tQ.js",
       "_CPIHPb2w.js",
       "_tLulCUna.js",
-      "_L-0QB28C.js"
+      "_6M5aMLiE.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/10.js": {
@@ -428,6 +428,14 @@
       "_app/immutable/assets/9.BSULNUP8.css"
     ]
   },
+  "_6M5aMLiE.js": {
+    "file": "_app/immutable/chunks/6M5aMLiE.js",
+    "name": "entry",
+    "imports": [
+      "_KjrQ1_tQ.js",
+      "_BCkn1JK1.js"
+    ]
+  },
   "_8NQTBgkF.js": {
     "file": "_app/immutable/chunks/8NQTBgkF.js",
     "name": "news"
@@ -620,14 +628,6 @@
   "_KjrQ1_tQ.js": {
     "file": "_app/immutable/chunks/KjrQ1_tQ.js",
     "name": "runtime"
-  },
-  "_L-0QB28C.js": {
-    "file": "_app/immutable/chunks/L-0QB28C.js",
-    "name": "entry",
-    "imports": [
-      "_KjrQ1_tQ.js",
-      "_BCkn1JK1.js"
-    ]
   },
   "_OGR01.C7J5lBB8.webp": {
     "file": "_app/immutable/assets/OGR01.C7J5lBB8.webp",
@@ -1188,12 +1188,12 @@
     "src": "_youtube-w.p6r_eGz1.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
-    "file": "_app/immutable/entry/start.VB3nCD8U.js",
+    "file": "_app/immutable/entry/start.jMelWfuX.js",
     "name": "entry/start",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_L-0QB28C.js"
+      "_6M5aMLiE.js"
     ]
   },
   "src/lib/vortech.svg": {
