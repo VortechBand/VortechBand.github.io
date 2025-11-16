@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/client-optimized/app.js": {
-    "file": "_app/immutable/entry/app.5RGDYKH5.js",
+    "file": "_app/immutable/entry/app.D0_U5hi6.js",
     "name": "entry/app",
     "src": ".svelte-kit/generated/client-optimized/app.js",
     "isEntry": true,
@@ -50,7 +50,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.CmwCmzyi.js",
+    "file": "_app/immutable/nodes/1.FlXMOvao.js",
     "name": "nodes/1",
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
     "isEntry": true,
@@ -61,7 +61,7 @@
       "_CZjzgrNv.js",
       "_B6NljYgi.js",
       "_Cbl6X-WI.js",
-      "_BrXx4oqj.js"
+      "_DbuadE_-.js"
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/10.js": {
@@ -191,7 +191,7 @@
     ]
   },
   ".svelte-kit/generated/client-optimized/nodes/17.js": {
-    "file": "_app/immutable/nodes/17.DaQmvmWu.js",
+    "file": "_app/immutable/nodes/17.BhnmBoAA.js",
     "name": "nodes/17",
     "src": ".svelte-kit/generated/client-optimized/nodes/17.js",
     "isEntry": true,
@@ -560,14 +560,6 @@
       "_app/immutable/assets/VOR011.Ck4sXlpj.jpeg"
     ]
   },
-  "_BrXx4oqj.js": {
-    "file": "_app/immutable/chunks/BrXx4oqj.js",
-    "name": "entry",
-    "imports": [
-      "_CZjzgrNv.js",
-      "_5muk0uPm.js"
-    ]
-  },
   "_ByZvJkl1.js": {
     "file": "_app/immutable/chunks/ByZvJkl1.js",
     "name": "html",
@@ -642,6 +634,14 @@
   "_DWNogShS.js": {
     "file": "_app/immutable/chunks/DWNogShS.js",
     "name": "releases"
+  },
+  "_DbuadE_-.js": {
+    "file": "_app/immutable/chunks/DbuadE_-.js",
+    "name": "entry",
+    "imports": [
+      "_CZjzgrNv.js",
+      "_5muk0uPm.js"
+    ]
   },
   "_OGR01.C7J5lBB8.webp": {
     "file": "_app/immutable/assets/OGR01.C7J5lBB8.webp",
@@ -1198,12 +1198,12 @@
     "src": "_youtube-w.p6r_eGz1.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
-    "file": "_app/immutable/entry/start.C8sSKpzo.js",
+    "file": "_app/immutable/entry/start.BlU4iz-u.js",
     "name": "entry/start",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_BrXx4oqj.js"
+      "_DbuadE_-.js"
     ]
   },
   "src/lib/vortech.svg": {
