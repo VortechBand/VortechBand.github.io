@@ -1,0 +1,1 @@
+import{f as a,D as d}from"./C5JkbbJh.js";const c=t=>{if(!t)return;const o="yyyy-MM-dd HH:mm:ss",e=d;return{author:t.author??"Vortech",categories:t.categories,contents:t.contents,created:a(t.created,o,e),id:t.id,title:t.title,updated:a(t.updated,o,e)}};export{c as f};
