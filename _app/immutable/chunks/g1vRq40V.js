@@ -1,0 +1,1 @@
+import{C as e,E as t,N as n,T as r,b as i,i as a,x as o,z as s}from"./B3UrpqW1.js";import"./xihTtKlq.js";var c=e(`<button type="button" class="svelte-1kh4dv7"> </button>`);function l(e,r){let l=a(r,`disabled`,3,!1),u=a(r,`onPress`,3,()=>{});var d=c(),f=s(d,!0);n(()=>{d.disabled=l(),i(f,r.label)}),t(`click`,d,function(...e){u()?.apply(this,e)}),o(e,d)}r([`click`]);export{l as t};

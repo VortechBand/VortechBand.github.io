@@ -1,0 +1,1 @@
+var e=e=>{let t=e.replace(/[^a-zA-Z0-9]/g,`-`);return t=t.replace(/-+/g,`-`),t=t.replace(/^-|-$/g,``),t.toLowerCase()};export{e as t};
