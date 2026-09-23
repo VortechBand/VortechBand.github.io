@@ -1,0 +1,59 @@
+import{C as e,X as t,x as n}from"../chunks/B3UrpqW1.js";import"../chunks/xihTtKlq.js";import"../chunks/DcfFUQYC.js";var r=e(`<h2>Full bio</h2> <h3>Early days (2000-2004)</h3> <p>The band began in early 2000, when Juha Untinen and Tero Konola started experimenting with
+  recording techniques and writing original songs under the name Aftershock. The name soon changed
+  to Sound Ogre after they discovered that many other bands were already called Aftershock. Many of
+  our original songs were posted to mp3.com, which was fairly popular in 2000-2001, even locally.
+  After receiving encouraging comments, we were inspired to write more songs of our own and quickly
+  prepared two demos, Beta and Pulsebeat. We were still using the Sound Ogre name at this point. A
+  third demo, Death.com, was completed but never published. However, two songs from that demo,
+  Endless Stairs and Loppusyksy, were played at our first live performance. The former later
+  appeared on the first Sound Ogre EP, Extinct (2004), which also featured the show's third song,
+  The Sentence Is Death.</p> <p>Work on a new EP began in 2002. Four songs took shape, but the EP was never released. One of those
+  songs came fairly close to the style of the two published Sound Ogre EPs: the previously mentioned
+  Extinct and its follow-up, Asphyxiation (2005). Together, these EPs already hinted at the sound
+  Vortech would later develop. Although the second EP was intended to have vocals, no vocalist was
+  found to record them. It was also far more experimental in style and structure, which would later
+  be reflected on the album Deep Beneath (2008). During this time, the idea of making a full-length
+  album began to take shape.</p> <h3>The beginning of Vortech (2005-2008)</h3> <p>As Tero had become busy with other projects, including Relativity, which Juha would later join,
+  Juha began working on the music alone. As the style began to change, it made sense to choose a new
+  name for the project. As is often the case, the inspiration came from a lyric or a name used by
+  one of the band's favourite bands. In this case, it was the British industrial metal band
+  Cubanate, whose songs Vortech I and Vortech II provided the name. No one knew what Vortech meant,
+  but it sure sounded cool! Later, it was even cooler to discover that Vortech is a well-known
+  supercharger manufacturer for fast cars. Very suitable for the music style! Following the name
+  change in late 2005, the first demos were recorded but never released.</p> <p>In early 2006, the songwriting for what would become the first full length album, Conclusion
+  (2006), started and the album was ready in fairly short order. The first four songs ended up on
+  the album almost as-is, followed by the rest of the songs written just as quickly. With the
+  success of getting the album ready so quickly, it was time to immediately start writing the next
+  album. The next six months from May 2006 onwards were spent demoing songs for what would
+  eventually become the popular album Wasteland (2007).</p> <p>Note that you can find more details about recording sessions for specific albums in their studio
+  reports, which you can view through the <a href="/music">Music</a> section on this site.</p> <p>And with Wasteland being ready in early 2007, it was time to compose more songs for what would
+  finally end up becoming Deep Beneath (2008). The entire album was written while waiting for the
+  guest vocalists to record their parts for Wasteland, so Deep Beneath was released less than 6
+  months after the release of Wasteland!</p> <h3>The busy era (2008-2014)</h3> <p>Things started moving fast following the release of Deep Beneath, with Mikko Särkimäki joining the
+  band during the recording sessions. In the spring of 2008, we started to rehearse extensively for
+  future live shows. This was also a time when the writing process for our most popular album,
+  Posthumanism (2009), started. The entire album was ready by the end of the year, and we even
+  rehearsed some of the new songs. In fact, at our first show in June 2009, we played 4 of the 11
+  songs on the album!</p> <p>Around August 2009, it was also time to start writing more songs. These would be ready by spring
+  2010, but would take another 2 years to be released in the form of Devoid of Life, with Mikko
+  Nikula on vocals and Ville Miinala playing live drums on the album. We also continued rehearsing
+  heavily and also writing the next album, The Occlusion (2014) little by little.</p> <p>Because The Occlusion had a very different style, Ville eventually moved on to other projects, and
+  we continued recording with Mikko Nikula. During this time, work also began on what would become
+  ...of What Remains (2015), continuing until summer 2014. After the songwriting was complete, we
+  took a short break while waiting for the vocals to be recorded; we spent that time experimenting
+  with new recording techniques.</p> <h3>The current era (2015 onwards)</h3> <p>Songwriting for The Shadow Presence (2022) began in February 2015 and continued until around
+  summer 2017. Although all of the album's instrumental parts were recorded in early autumn 2018,
+  its release took much longer, and a new guest vocalist eventually joined the project. The style
+  was again similar to the classic Posthumanism-Of What Remains era, with some new elements.</p> <p>The ninth full-length album, Void Emergent, was released on 7 December 2025. Its songs took shape
+  across several February Album Writing Month sessions between 2018 and 2022, while the album's
+  concept came into focus once the lyrics were completed in 2024. After a year of fine-tuning the
+  arrangements, guitars were recorded in autumn 2024 and bass in December. The programmed drums were
+  given a more organic feel, and session vocalists including ICanBeFree brought the songs to life.
+  Mixing and mastering began in summer 2025 and were completed in December, bringing together a
+  story of Earth's final days, humanity's flight into space, and its transformation from biological
+  life into something robotic and new.</p> <p>Work on the tenth album is now underway. All of the songs have been demoed, most of the lyrics are
+  written, and preproduction is ongoing as the tracks are fine-tuned through repeated listening and
+  new ideas. The lyrics draw on Lovecraftian unease: unseen forces press in from beyond the veil,
+  humanity slips toward a mechanical existence, and the journey ends at the edge of an immense,
+  indifferent void. Its atmosphere moves between lifeless city streets and strange cosmic horizons,
+  where even escape offers no promise of safety.</p> <p><a href="/bio">Back to Biography</a></p>`,1);function i(e){var i=r();t(34),n(e,i)}export{i as component};
